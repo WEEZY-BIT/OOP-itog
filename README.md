@@ -11,7 +11,7 @@
 ## Установка
 1. Клонируйте репозиторий:
   
-   git clone https://github.com/your-repo/complex_calculator.git
+   git clone https://github.com/WEEZY-BIT/OOP-itog.git
 
 2. Установите зависимости
     pip install -r requirements.txt
